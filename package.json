@@ -1,0 +1,15 @@
+{
+    "name": "ayrelink",
+    "version": "1.0.0",
+    "description": "AyreLink RS232 Control Library",
+    "main": "ayrelink-lib.js",
+    "author": "Neil V. Patel",
+    "license": "Apache-2.0",
+    "dependencies": {
+        "serialport": "^9.1.0"
+    },
+    "repository": "github:synapse-md/ayrelink",
+    "engines": {
+        "node": "^14.17.0"
+    }
+}
